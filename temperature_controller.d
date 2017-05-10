@@ -1,0 +1,10 @@
+.\temperature_controller.o: Temperature_controller.c
+.\temperature_controller.o: ADC.h
+.\temperature_controller.o: tm4c123gh6pm.h
+.\temperature_controller.o: Nokia5110.h
+.\temperature_controller.o: Fan_control.h
+.\temperature_controller.o: misc.h
+.\temperature_controller.o: led_gpio.h
+.\temperature_controller.o: light_sensor.h
+.\temperature_controller.o: sensor_gpio.h
+.\temperature_controller.o: PC_Uart3.h

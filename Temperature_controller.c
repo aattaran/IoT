@@ -13,7 +13,7 @@
 
 unsigned char TEMP[]={'T','E','M','P','E','R','A','T','U','R','E','\r','\n','\0'}; // null-terminated ASCII string
 unsigned char ALERT[]={'A','L','E','R','T','\r','\n','\0'}; 
-//unsigned char ALI[13]={'E','N','G','R',32,'8','4','8',001,003,'\r','\n','\0'}; 
+
 unsigned long ADCdata;    // 12-bit 0 to 4095 sample
 unsigned char Temp_s[20];
 
